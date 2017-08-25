@@ -1,0 +1,19 @@
+name: hearthstone-optimal-mana-curve-env
+channels:
+ - defaults
+ - conda-forge
+dependencies:
+ - python=3
+ - pandas
+ - scikit-learn
+ - numpy
+ - scipy
+ - matplotlib
+ - seaborn
+ - plotly
+ - requests
+ - beautifulsoup4
+ - tqdm
+ - jupyter
+ - pytest
+ - nose
